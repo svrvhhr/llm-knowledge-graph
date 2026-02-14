@@ -1,0 +1,122 @@
+[
+  {
+    "subject": "marie",
+    "predicate": "left",
+    "object": "lyon",
+    "chunk": 1
+  },
+  {
+    "subject": "marie",
+    "predicate": "moved to",
+    "object": "berlin",
+    "chunk": 1
+  },
+  {
+    "subject": "marie",
+    "predicate": "works in",
+    "object": "berlin",
+    "chunk": 1
+  },
+  {
+    "subject": "marie",
+    "predicate": "is",
+    "object": "ing\u00e9nieure en intelligence artificielle",
+    "chunk": 1
+  },
+  {
+    "subject": "marie",
+    "predicate": "started in",
+    "object": "2022",
+    "chunk": 1
+  },
+  {
+    "subject": "marie",
+    "predicate": "joined",
+    "object": "start-up",
+    "chunk": 1
+  },
+  {
+    "subject": "start-up",
+    "predicate": "specializes in",
+    "object": "sant\u00e9 num\u00e9rique",
+    "chunk": 1
+  },
+  {
+    "subject": "marie",
+    "predicate": "completed",
+    "object": "doctorat",
+    "chunk": 1
+  },
+  {
+    "subject": "marie",
+    "predicate": "collaborates with",
+    "object": "chercheurs universitaires",
+    "chunk": 1
+  },
+  {
+    "subject": "start-up",
+    "predicate": "raised",
+    "object": "fonds importants",
+    "chunk": 1
+  },
+  {
+    "subject": "start-up",
+    "predicate": "raised in",
+    "object": "last year",
+    "chunk": 1
+  },
+  {
+    "subject": "start-up",
+    "predicate": "opened",
+    "object": "nouveau bureau",
+    "chunk": 1
+  },
+  {
+    "subject": "start-up",
+    "predicate": "hired",
+    "object": "employ\u00e9s",
+    "chunk": 1
+  },
+  {
+    "subject": "fonds importants",
+    "predicate": "enabled",
+    "object": "nouveau bureau",
+    "chunk": 1
+  },
+  {
+    "subject": "fonds importants",
+    "predicate": "enabled",
+    "object": "employ\u00e9s",
+    "chunk": 1
+  },
+  {
+    "subject": "marie",
+    "predicate": "joined via start-up",
+    "object": "employ\u00e9s",
+    "inferred": true
+  },
+  {
+    "subject": "marie",
+    "predicate": "joined via start-up",
+    "object": "fonds importants",
+    "inferred": true
+  },
+  {
+    "subject": "marie",
+    "predicate": "joined via start-up",
+    "object": "last year",
+    "inferred": true
+  },
+  {
+    "subject": "marie",
+    "predicate": "joined via start-up",
+    "object": "sant\u00e9 num\u00e9rique",
+    "inferred": true
+  },
+  {
+    "subject": "marie",
+    "predicate": "joined via start-up",
+    "object": "nouveau bureau",
+    "inferred": true
+  }
+]

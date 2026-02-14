@@ -1,0 +1,6 @@
+networkx
+pyvis
+pydantic
+requests
+python-dotenv
+google-generativeai
