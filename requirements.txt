@@ -1,0 +1,8 @@
+networkx
+pyvis
+pydantic
+requests
+python-dotenv
+google-generativeai
+streamlit
+python-louvain

@@ -1,0 +1,134 @@
+[
+  {
+    "subject": "marie",
+    "predicate": "left",
+    "object": "lyon",
+    "chunk": 1
+  },
+  {
+    "subject": "marie",
+    "predicate": "moved to",
+    "object": "berlin",
+    "chunk": 1
+  },
+  {
+    "subject": "marie",
+    "predicate": "works in",
+    "object": "berlin",
+    "chunk": 1
+  },
+  {
+    "subject": "marie",
+    "predicate": "is",
+    "object": "ai engineer",
+    "chunk": 1
+  },
+  {
+    "subject": "marie",
+    "predicate": "started in",
+    "object": "2022",
+    "chunk": 1
+  },
+  {
+    "subject": "ai engineer",
+    "predicate": "works with",
+    "object": "artificial intelligence",
+    "chunk": 1
+  },
+  {
+    "subject": "marie",
+    "predicate": "joined",
+    "object": "start-up",
+    "chunk": 1
+  },
+  {
+    "subject": "start-up",
+    "predicate": "specializes in",
+    "object": "digital health",
+    "chunk": 1
+  },
+  {
+    "subject": "marie",
+    "predicate": "completed",
+    "object": "doctorate",
+    "chunk": 1
+  },
+  {
+    "subject": "marie",
+    "predicate": "collaborates with",
+    "object": "university researchers",
+    "chunk": 1
+  },
+  {
+    "subject": "start-up",
+    "predicate": "raised",
+    "object": "significant funds",
+    "chunk": 1
+  },
+  {
+    "subject": "significant funds",
+    "predicate": "raised in",
+    "object": "last year",
+    "chunk": 1
+  },
+  {
+    "subject": "significant funds",
+    "predicate": "enabled",
+    "object": "new office",
+    "chunk": 1
+  },
+  {
+    "subject": "significant funds",
+    "predicate": "enabled hiring",
+    "object": "employees",
+    "chunk": 1
+  },
+  {
+    "subject": "start-up",
+    "predicate": "opened",
+    "object": "new office",
+    "chunk": 1
+  },
+  {
+    "subject": "start-up",
+    "predicate": "hired",
+    "object": "employees",
+    "chunk": 1
+  },
+  {
+    "subject": "marie",
+    "predicate": "joined via start-up",
+    "object": "employees",
+    "inferred": true
+  },
+  {
+    "subject": "marie",
+    "predicate": "joined via start-up",
+    "object": "digital health",
+    "inferred": true
+  },
+  {
+    "subject": "marie",
+    "predicate": "joined via start-up",
+    "object": "significant funds",
+    "inferred": true
+  },
+  {
+    "subject": "marie",
+    "predicate": "joined via start-up",
+    "object": "new office",
+    "inferred": true
+  },
+  {
+    "subject": "marie",
+    "predicate": "is via ai",
+    "object": "artificial intelligence",
+    "inferred": true
+  },
+  {
+    "subject": "start-up",
+    "predicate": "raised via significant",
+    "object": "last year",
+    "inferred": true
+  }
+]
